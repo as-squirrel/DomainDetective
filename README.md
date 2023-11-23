@@ -1,4 +1,5 @@
 # DomainDetective
+![Group 9](https://github.com/as-squirrel/DomainDetective/assets/114065413/ae7437a3-73f0-4d0b-b270-a7edfd762e14)
 
 ## Description
 The Subdomain Checker tool allows users to verify the existence of subdomains belonging to a main domain and optionally check SSL certificates for these subdomains.
