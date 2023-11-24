@@ -1,6 +1,13 @@
 # DomainDetective
 ![Group 9](https://github.com/as-squirrel/DomainDetective/assets/114065413/ae7437a3-73f0-4d0b-b270-a7edfd762e14)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/as-squirrel/DomainDetective)
+![GitHub issues](https://img.shields.io/github/issues/as-squirrel/DomainDetective)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/as-squirrel/DomainDetective)
+![GitHub stars](https://img.shields.io/github/stars/as-squirrel/DomainDetective)
+![GitHub forks](https://img.shields.io/github/forks/as-squirrel/DomainDetective)
+
 ## Description
 The Subdomain Checker tool allows users to verify the existence of subdomains belonging to a main domain and optionally check SSL certificates for these subdomains.
 
