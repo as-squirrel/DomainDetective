@@ -1,3 +1,6 @@
 mail
 blog
 shop
+drive
+search
+docs
