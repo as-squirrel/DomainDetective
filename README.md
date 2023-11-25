@@ -44,7 +44,7 @@ python main.py domain file.txt [--ports PORTS] [--timeout TIMEOUT] [--https] [--
 ```bash
 python main.py example.com subdomains.txt --ports 443 --timeout 10 --https --output found_subdomains.txt --check-certificates
 ```
-### visualizations 
+### Visualizations 
 
 ![Opera Momentaufnahme_2023-11-25_231337_127 0 0 1](https://github.com/as-squirrel/DomainDetective/assets/114065413/520ece2b-e8b6-4ec9-a327-0f07ff0f8a38)
 
