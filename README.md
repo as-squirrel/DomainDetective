@@ -9,19 +9,19 @@
 ![GitHub forks](https://img.shields.io/github/forks/as-squirrel/DomainDetective)
 
 ## Description
-The Subdomain Checker tool allows users to verify the existence of subdomains belonging to a main domain and optionally check SSL certificates for these subdomains.
+The Subdomain Checker tool allows users to verify the existence of subdomains belonging to a main domain and optionally check SSL certificates for these subdomains. The tool provides a comprehensive report in the form of a CSV file and visualizations to understand the distribution and trends of subdomains over time.
 
 ## Installation
 1. Make sure Python is installed.
 2. Install required libraries:
     ```bash
     pip install -r requirements.txt
-
     ```
 
 ## Usage
 ```bash
 python main.py domain file.txt [--ports PORTS] [--timeout TIMEOUT] [--https] [--output OUTPUT_FILE] [--check-certificates]
+
 ```
 
 ## Arguments
@@ -37,11 +37,17 @@ python main.py domain file.txt [--ports PORTS] [--timeout TIMEOUT] [--https] [--
 - Verification of subdomain existence.
 - Optional SSL certificate verification for discovered subdomains.
 - Customizable ports, timeout, and output file.
+- Visualizations for understanding subdomain trends.
+
 
 ## Example
 ```bash
 python main.py example.com subdomains.txt --ports 443 --timeout 10 --https --output found_subdomains.txt --check-certificates
 ```
+### visualizations 
+
+![Opera Momentaufnahme_2023-11-25_231337_127 0 0 1](https://github.com/as-squirrel/DomainDetective/assets/114065413/520ece2b-e8b6-4ec9-a327-0f07ff0f8a38)
+
 
 # Notes
 Usage of this tool without proper authorization may violate applicable laws.
